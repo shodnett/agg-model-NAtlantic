@@ -9,6 +9,11 @@ Agg_model.ipynb - this is the actual model. You will need to run the first cell 
 Float_obs.ipynb - this is a script for reading in and plotting each individual float profile, according to the cumulative cross-sectional area concentration.
 
 UVP_Float_Data.xlsx - this is an Excel sheet of the data from the floats, which the script reads in using its formatting. 
+
+Temp_binned.xlsx - this is an Excel sheet of temeprature data per depth per float profile.
+
+Sal_binned.xlsx - this is an Excel sheet of salinity data per depth per float profile.
+
 ~~~~~~~~~~~~~~~
 
 Please get in touch if you have any questions!
